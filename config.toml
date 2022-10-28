@@ -1,0 +1,4 @@
+baseURL = 'http://[ユーザー名].github.io/[リポジトリ名]'
+languageCode = 'ja'
+title = 'My New Hugo Site'
+theme = "ananke"
